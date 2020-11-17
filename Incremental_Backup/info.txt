@@ -1,0 +1,1 @@
+This script will do the incremental backup into an external mounted hard-drive. It is to take a backup of the /home directory. However, it can be modified to suit the requirements.
