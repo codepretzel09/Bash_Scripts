@@ -1,0 +1,1 @@
+analyze the disk usage and if the reported disk space is more than 90 % an email will be sent to the administrator
